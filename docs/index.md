@@ -5,6 +5,9 @@ description: "This tutorial will explain how to georeference a raster image in A
 staff:
     - name: Nick Field
       link: https://library.utoronto.ca/staff/nick-field
+maintainer:
+ - name: Cole White
+   link: https://library.utoronto.ca/staff/cole-white
 created_date: 2023-11-03
 permalink: "/"  #! Remove this if not the homepage
 ---
