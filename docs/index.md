@@ -75,5 +75,3 @@ Please download and unzip the [sample data](https://maps.library.utoronto.ca/doc
 <img src='{{ '/assets/images/Export%20Raster.PNG' | relative_url }}' alt='"export raster menu opened"' title='' width='238' height='699' />
 
 ---
-
-Technique: [Georeferencing](https://mdl.library.utoronto.ca/technique/georeferencing) | Tools: [ArcGIS Pro](https://mdl.library.utoronto.ca/taxonomy/term/70) | Data Format: [Raster](https://mdl.library.utoronto.ca/data-format/raster)
