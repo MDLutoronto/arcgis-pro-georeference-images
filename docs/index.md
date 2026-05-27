@@ -6,8 +6,8 @@ staff:
     - name: Nick Field
       link: https://library.utoronto.ca/staff/nick-field
 maintainer:
- - name: Cole White
-   link: https://library.utoronto.ca/staff/cole-white
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
 created_date: 2023-11-03
 permalink: "/"  #! Remove this if not the homepage
 ---
@@ -36,7 +36,8 @@ Please download and unzip the [sample data](https://maps.library.utoronto.ca/doc
 
     <img src='{{ '/assets/images/Georeferencing%20Toolbar_2.PNG' | relative_url }}' alt='georeferencing tool location in the toolbar' title='' width='1312' height='153' />
 8. You will notice that while the raster file appears as a layer in the Table of Contents, it is not immediately visible on the screen. To make the image visible click the Fit to Display option on the left of the toolbar.  
-<img src='{{ '/assets/images/Fit-to-Display.PNG' | relative_url }}' alt='fit to display option's location in the toolbar' title='' width='1505' height='149' />
+    
+    <img src='{{ '/assets/images/Fit-to-Display.PNG' | relative_url }}' alt="fit to display option's location in the toolbar" title='' width='1505' height='149' />
 
 9. Use the Zoom tool to zoom in to the University of Toronto area in the road network file, shown here in the highlighted rectangle on the map below:  
 <img src='{{ '/assets/images/highlight%20uoft%201.png' | relative_url }}' alt='overlay of scanned map on road network map highlighting university of toronto area' title='' width='881' height='655' />
@@ -77,4 +78,4 @@ Please download and unzip the [sample data](https://maps.library.utoronto.ca/doc
 ---
 
 
-Technique: [Georeferencing](https://mdlutoronto.github.io/tutorials-search/?technique=Georeferencing) | Tools: [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro) | Data Format: [Raster](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Raster)
+**Technique:** [Georeferencing](https://mdlutoronto.github.io/tutorials-search/?technique=Georeferencing) \| **Tools:** [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro) \| **Data Format:** [Raster](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Raster)
